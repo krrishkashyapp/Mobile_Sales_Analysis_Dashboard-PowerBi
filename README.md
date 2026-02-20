@@ -37,4 +37,28 @@ Data Modeling – Relationships between tables
 
 File Formatting & Dashboard UI Design
 
-Dataset (CSV/Excel) – Used for analysis and visualization
+Dataset (Excel) – Used for analysis and visualization
+
+📂 Dataset
+
+The dataset used in this project includes mobile sales data such as:
+
+Order ID
+
+City
+
+Brand & Mobile Model
+
+Sales Amount
+
+Quantity Sold
+
+Transaction Date
+
+Payment Method
+
+Customer Rating
+
+||Explore the dashboard and interact with filters and slicer:-https://app.powerbi.com/view?r=eyJrIjoiNDU3MWU0ODQtNWE1YS00ZjMyLWFlNzAtYTlmODFhMGQ1ZDE2IiwidCI6IjUzODZmZjM3LTM0NGUtNDM2OS1hMzZkLTUxODJiOGZiMWI3NSJ9||
+
+
