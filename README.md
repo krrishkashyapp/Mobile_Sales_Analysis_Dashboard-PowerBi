@@ -24,3 +24,17 @@ The goal of this project is to demonstrate data analysis, visualization, and bus
 ⭐ Customer Ratings Analysis – Visualization of customer satisfaction ratings.
 
 📊 Brand-wise Summary Table – Tabular view of sales, quantity, and transactions per brand.
+
+🛠️ Technologies & Tools Used
+
+Power BI Desktop – Dashboard design and visualization
+
+Power Query – Data cleaning and transformation
+
+DAX (Data Analysis Expressions) – Measures and calculated columns
+
+Data Modeling – Relationships between tables
+
+File Formatting & Dashboard UI Design
+
+Dataset (CSV/Excel) – Used for analysis and visualization
